@@ -1,6 +1,6 @@
 # Artificial intelligence
 ### Simply put
-Main focus of this respository is the concept of artifical intelligence to train and test data
+Main focus of this respository is the basic and simple concept of artifical intelligence to train and test data
 both with simple linear regression and multiple linear regression with 3D.
 Gives insight on the general idea of the algorithm.
 Linear as you know is a striaght line, linear regression sometimes called 'Best fit line' basically means drawing a line between data points.
@@ -13,6 +13,6 @@ From the formula, y=mx+b
 y=1.5x+0.5
 let's assume x=2
 y=1.5(2)+0.5
-y=3.5(we can  also do thisn for y to find x)(change x to subjecy of formula)
+y=3.5(we can  also do this for y to find x)(change x to subjecy of formula)
 
 In 3 dimension, x,y=z or z,y=x where z is now our output vraiable.
