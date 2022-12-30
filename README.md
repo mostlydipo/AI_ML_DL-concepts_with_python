@@ -8,7 +8,7 @@ some basic formula is y=mx+b where Y is our output(labels) variable or dependent
 X(input variable) on the other hand is what we feed our model and is also called the n_features.
 we only need to know the value(s) of either x or y to find one of the variables(x=y) or (y=x)
 
-Some maths
+### Some maths
 From the formula, y=mx+b
 y=1.5x+0.5
 let's assume x=2
